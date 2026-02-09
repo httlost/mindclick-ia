@@ -1,0 +1,6 @@
+# Python dependencies for mindclick-ia project
+
+flask
+numpy
+pandas
+requests
